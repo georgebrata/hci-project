@@ -22,10 +22,14 @@ Understanding and learning this knowledge in advance will greatly help the use o
 
 
 ### Getting started
+Open your terminal, navigate to a new location and then type the following:
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/kyokidG/hci-project.git
+
+# navigate to project folder
+cd hci-project
 
 # install dependency
 npm install
@@ -66,15 +70,13 @@ npm run lint
 npm run lint -- --fix
 ```
 
-Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information
+Refer to [Documentation of the Admin Template we are using](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information.
 
 #### Changelog
 
 Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
 
 #### Online Demo
-
-- 
 
 [not available yet](https://georgebrata.ro)
 
