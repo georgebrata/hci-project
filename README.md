@@ -25,7 +25,11 @@ Understanding and learning this knowledge in advance will greatly help the use o
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/kyokidG/hci-project.git
+
+
+# navigate to project folder
+cd hci-project
 
 # install dependency
 npm install
